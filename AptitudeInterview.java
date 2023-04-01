@@ -2,6 +2,11 @@ package com.myProject;
 
 import java.util.Arrays;
 
+/*
+ * @author Dhinakaran
+ */
+
+
 public class AptitudeInterview {
 
 	public static void main(String[] args) {
